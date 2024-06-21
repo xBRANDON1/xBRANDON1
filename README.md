@@ -17,7 +17,7 @@
 - 📲 Desarrollo en software
 - ♨️Java(basico)
 - 🟣C#(Principiante)
-- </> html
+- </> html (Basico)
 - 🌐 Base de datos en sql (Principiante)
 <br>
 
